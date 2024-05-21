@@ -1,8 +1,16 @@
 ### 照片資料夾結構：
 * 適用於 `./original` 和 `./processed`
-* 地點 > 時間(早上或晚上) > 距離 [> 左右] > 角度(0度就沒有左右那層) > 照片.jpg
-    *  e.g.: `./FamilyMart/morning/10m/right/60deg/1.jpg`
+* 地點 > 時間 > 距離 [> 左右] > 角度(0度就沒有左右那層) > 照片.JPG
+    * e.g.: `./FamilyMart/morning/10m/right/60deg/1.jpg`
     * e.g.: `./FamilyMart/morning/7.5m/0deg/30.jpg`
+* 目前每個屬性的分類：
+    * 地點：`FamilyMart` 和 `Ching-Shin`
+    * 時間：`morning` 和 `night`
+    * 距離：`5m`,  `7.5m` 和 `10m`
+    * 左右：`left` 和 `right`
+    * 角度：`0deg`(不會有左右那層),  `30deg` 和 `60deg`
+* `Ching-Shin` 在 >= `7.5m` 時不會有 `left` 的 `60deg`，因為那個角度會要在建築裡面才拍的到
+
 
 ### label方式
 * 會遞迴讀取資料夾中全部的照片，把資料夾名稱以 `_` 組合起來當作 label
