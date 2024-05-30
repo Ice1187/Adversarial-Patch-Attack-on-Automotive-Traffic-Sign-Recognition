@@ -1,0 +1,94 @@
+[
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/1.jpg",
+    "id": 133,
+    "label": [
+      {
+        "x": 4.661654135338346,
+        "y": 1.0526315789473684,
+        "width": 74.13533834586465,
+        "height": 71.42857142857143,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2024-05-30T05:51:53.276644Z",
+    "updated_at": "2024-05-30T05:51:53.276681Z",
+    "lead_time": 8.654
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/10.jpg",
+    "id": 134,
+    "label": [
+      {
+        "x": 18.045112781954884,
+        "y": 8.721804511278195,
+        "width": 71.12781954887218,
+        "height": 71.12781954887218,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2024-05-30T05:52:09.431743Z",
+    "updated_at": "2024-05-30T05:52:09.431765Z",
+    "lead_time": 16.027
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/11.jpg",
+    "id": 135,
+    "label": [
+      {
+        "x": 16.541353383458645,
+        "y": 9.624060150375941,
+        "width": 72.93233082706767,
+        "height": 72.03007518796993,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2024-05-30T05:52:16.827928Z",
+    "updated_at": "2024-05-30T05:52:16.827950Z",
+    "lead_time": 7.249
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/12.jpg",
+    "id": 136,
+    "label": [
+      {
+        "x": 16.99248120300752,
+        "y": 9.172932330827068,
+        "width": 70.82706766917292,
+        "height": 72.33082706766918,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2024-05-30T05:52:23.771893Z",
+    "updated_at": "2024-05-30T05:52:23.771924Z",
+    "lead_time": 6.802
+  }
+]

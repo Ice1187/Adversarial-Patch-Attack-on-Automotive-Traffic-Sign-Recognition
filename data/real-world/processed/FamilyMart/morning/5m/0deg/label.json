@@ -1,0 +1,1014 @@
+[
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/1.jpg",
+    "id": 133,
+    "label": [
+      {
+        "x": 4.661654135338346,
+        "y": 1.0526315789473684,
+        "width": 74.13533834586465,
+        "height": 71.42857142857143,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2024-05-30T05:51:53.276644Z",
+    "updated_at": "2024-05-30T05:51:53.276681Z",
+    "lead_time": 8.654
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/10.jpg",
+    "id": 134,
+    "label": [
+      {
+        "x": 18.045112781954884,
+        "y": 8.721804511278195,
+        "width": 71.12781954887218,
+        "height": 71.12781954887218,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2024-05-30T05:52:09.431743Z",
+    "updated_at": "2024-05-30T05:52:09.431765Z",
+    "lead_time": 16.027
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/11.jpg",
+    "id": 135,
+    "label": [
+      {
+        "x": 16.541353383458645,
+        "y": 9.624060150375941,
+        "width": 72.93233082706767,
+        "height": 72.03007518796993,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2024-05-30T05:52:16.827928Z",
+    "updated_at": "2024-05-30T05:52:16.827950Z",
+    "lead_time": 7.249
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/12.jpg",
+    "id": 136,
+    "label": [
+      {
+        "x": 16.99248120300752,
+        "y": 9.172932330827068,
+        "width": 70.82706766917292,
+        "height": 72.33082706766918,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2024-05-30T05:52:23.771893Z",
+    "updated_at": "2024-05-30T05:52:23.771924Z",
+    "lead_time": 6.802
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/13.jpg",
+    "id": 137,
+    "label": [
+      {
+        "x": 15.639097744360903,
+        "y": 10.37593984962406,
+        "width": 72.63157894736841,
+        "height": 71.72932330827068,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2024-05-30T07:32:51.352191Z",
+    "updated_at": "2024-05-30T07:32:51.352284Z",
+    "lead_time": 7.273
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/14.jpg",
+    "id": 138,
+    "label": [
+      {
+        "x": 14.43609022556391,
+        "y": 10.37593984962406,
+        "width": 73.98496240601503,
+        "height": 72.18045112781955,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2024-05-30T07:32:56.313082Z",
+    "updated_at": "2024-05-30T07:32:56.313116Z",
+    "lead_time": 4.813
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/15.jpg",
+    "id": 139,
+    "label": [
+      {
+        "x": 14.586466165413533,
+        "y": 11.578947368421053,
+        "width": 71.57894736842107,
+        "height": 70.52631578947368,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2024-05-30T07:33:01.362507Z",
+    "updated_at": "2024-05-30T07:33:01.362543Z",
+    "lead_time": 4.916
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/16.jpg",
+    "id": 140,
+    "label": [
+      {
+        "x": 12.781954887218044,
+        "y": 11.729323308270677,
+        "width": 73.38345864661655,
+        "height": 70.97744360902254,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2024-05-30T07:33:06.650140Z",
+    "updated_at": "2024-05-30T07:33:06.650174Z",
+    "lead_time": 5.151
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/17.jpg",
+    "id": 141,
+    "label": [
+      {
+        "x": 13.082706766917292,
+        "y": 12.93233082706767,
+        "width": 72.03007518796991,
+        "height": 69.02255639097744,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2024-05-30T07:33:13.167831Z",
+    "updated_at": "2024-05-30T07:33:13.167853Z",
+    "lead_time": 6.372
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/18.jpg",
+    "id": 142,
+    "label": [
+      {
+        "x": 12.030075187969924,
+        "y": 12.781954887218044,
+        "width": 72.93233082706767,
+        "height": 69.17293233082707,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2024-05-30T07:33:18.704198Z",
+    "updated_at": "2024-05-30T07:33:18.704227Z",
+    "lead_time": 5.406
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/19.jpg",
+    "id": 143,
+    "label": [
+      {
+        "x": 12.330827067669173,
+        "y": 12.93233082706767,
+        "width": 72.4812030075188,
+        "height": 70.97744360902254,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2024-05-30T07:33:24.798452Z",
+    "updated_at": "2024-05-30T07:33:24.798486Z",
+    "lead_time": 5.951
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/2.jpg",
+    "id": 144,
+    "label": [
+      {
+        "x": 6.616541353383458,
+        "y": 4.2105263157894735,
+        "width": 73.38345864661655,
+        "height": 70.22556390977444,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2024-05-30T07:33:31.292359Z",
+    "updated_at": "2024-05-30T07:33:31.292398Z",
+    "lead_time": 6.353
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/20.jpg",
+    "id": 145,
+    "label": [
+      {
+        "x": 12.180451127819548,
+        "y": 13.233082706766917,
+        "width": 73.08270676691728,
+        "height": 71.2781954887218,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2024-05-30T07:33:36.600045Z",
+    "updated_at": "2024-05-30T07:33:36.600080Z",
+    "lead_time": 5.165
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/21.jpg",
+    "id": 146,
+    "label": [
+      {
+        "x": 11.729323308270677,
+        "y": 13.984962406015036,
+        "width": 73.23308270676692,
+        "height": 70.67669172932332,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2024-05-30T07:33:43.081640Z",
+    "updated_at": "2024-05-30T07:33:43.081686Z",
+    "lead_time": 6.338
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/22.jpg",
+    "id": 147,
+    "label": [
+      {
+        "x": 12.330827067669173,
+        "y": 13.834586466165414,
+        "width": 72.93233082706766,
+        "height": 70.22556390977442,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 21,
+    "created_at": "2024-05-30T07:33:48.232609Z",
+    "updated_at": "2024-05-30T07:33:48.232648Z",
+    "lead_time": 5.004
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/23.jpg",
+    "id": 148,
+    "label": [
+      {
+        "x": 11.729323308270677,
+        "y": 12.631578947368421,
+        "width": 74.28571428571429,
+        "height": 69.47368421052632,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 22,
+    "created_at": "2024-05-30T07:33:52.932322Z",
+    "updated_at": "2024-05-30T07:33:52.932370Z",
+    "lead_time": 4.561
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/24.jpg",
+    "id": 149,
+    "label": [
+      {
+        "x": 11.729323308270677,
+        "y": 11.12781954887218,
+        "width": 73.98496240601503,
+        "height": 69.47368421052632,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 23,
+    "created_at": "2024-05-30T07:33:57.430677Z",
+    "updated_at": "2024-05-30T07:33:57.430707Z",
+    "lead_time": 4.363
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/25.jpg",
+    "id": 150,
+    "label": [
+      {
+        "x": 10.827067669172932,
+        "y": 10.827067669172932,
+        "width": 74.13533834586467,
+        "height": 70.67669172932331,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 24,
+    "created_at": "2024-05-30T07:34:02.967139Z",
+    "updated_at": "2024-05-30T07:34:02.967190Z",
+    "lead_time": 5.399
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/26.jpg",
+    "id": 151,
+    "label": [
+      {
+        "x": 11.578947368421053,
+        "y": 12.781954887218044,
+        "width": 73.0827067669173,
+        "height": 69.02255639097744,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 25,
+    "created_at": "2024-05-30T07:34:08.828469Z",
+    "updated_at": "2024-05-30T07:34:08.828502Z",
+    "lead_time": 5.718
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/27.jpg",
+    "id": 152,
+    "label": [
+      {
+        "x": 11.278195488721805,
+        "y": 13.834586466165414,
+        "width": 72.63157894736841,
+        "height": 70.37593984962405,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2024-05-30T07:34:13.420441Z",
+    "updated_at": "2024-05-30T07:34:13.420467Z",
+    "lead_time": 4.455
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/28.jpg",
+    "id": 153,
+    "label": [
+      {
+        "x": 11.12781954887218,
+        "y": 16.842105263157894,
+        "width": 73.38345864661655,
+        "height": 69.02255639097746,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 27,
+    "created_at": "2024-05-30T07:34:19.611346Z",
+    "updated_at": "2024-05-30T07:34:19.611397Z",
+    "lead_time": 6.055
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/29.jpg",
+    "id": 154,
+    "label": [
+      {
+        "x": 10.827067669172932,
+        "y": 17.74436090225564,
+        "width": 74.73684210526315,
+        "height": 70.52631578947368,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2024-05-30T07:34:24.910395Z",
+    "updated_at": "2024-05-30T07:34:24.910426Z",
+    "lead_time": 5.159
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/3.jpg",
+    "id": 155,
+    "label": [
+      {
+        "x": 7.518796992481203,
+        "y": 6.165413533834586,
+        "width": 72.93233082706767,
+        "height": 69.02255639097744,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 29,
+    "created_at": "2024-05-30T07:34:29.992900Z",
+    "updated_at": "2024-05-30T07:34:29.992933Z",
+    "lead_time": 4.94
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/30.jpg",
+    "id": 156,
+    "label": [
+      {
+        "x": 12.030075187969924,
+        "y": 18.49624060150376,
+        "width": 71.72932330827068,
+        "height": 70.07518796992481,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 30,
+    "created_at": "2024-05-30T07:34:34.911837Z",
+    "updated_at": "2024-05-30T07:34:34.911870Z",
+    "lead_time": 4.791
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/31.jpg",
+    "id": 157,
+    "label": [
+      {
+        "x": 10.37593984962406,
+        "y": 17.293233082706767,
+        "width": 73.0827067669173,
+        "height": 68.42105263157895,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 31,
+    "created_at": "2024-05-30T07:34:39.384600Z",
+    "updated_at": "2024-05-30T07:34:39.384656Z",
+    "lead_time": 4.331
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/32.jpg",
+    "id": 158,
+    "label": [
+      {
+        "x": 10.225563909774436,
+        "y": 16.842105263157894,
+        "width": 74.43609022556392,
+        "height": 68.27067669172932,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 32,
+    "created_at": "2024-05-30T07:34:43.652535Z",
+    "updated_at": "2024-05-30T07:34:43.652571Z",
+    "lead_time": 4.129
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/33.jpg",
+    "id": 159,
+    "label": [
+      {
+        "x": 12.781954887218044,
+        "y": 16.390977443609025,
+        "width": 74.4360902255639,
+        "height": 70.0751879699248,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 33,
+    "created_at": "2024-05-30T07:34:47.727748Z",
+    "updated_at": "2024-05-30T07:34:47.727780Z",
+    "lead_time": 3.933
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/34.jpg",
+    "id": 160,
+    "label": [
+      {
+        "x": 15.338345864661655,
+        "y": 17.44360902255639,
+        "width": 73.68421052631578,
+        "height": 69.32330827067669,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2024-05-30T07:34:52.549492Z",
+    "updated_at": "2024-05-30T07:34:52.549528Z",
+    "lead_time": 4.676
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/35.jpg",
+    "id": 161,
+    "label": [
+      {
+        "x": 16.541353383458645,
+        "y": 18.195488721804512,
+        "width": 73.23308270676692,
+        "height": 69.62406015037594,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2024-05-30T07:34:57.922635Z",
+    "updated_at": "2024-05-30T07:34:57.922676Z",
+    "lead_time": 5.23
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/36.jpg",
+    "id": 162,
+    "label": [
+      {
+        "x": 17.894736842105264,
+        "y": 19.849624060150376,
+        "width": 73.38345864661655,
+        "height": 68.42105263157895,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2024-05-30T07:35:02.685466Z",
+    "updated_at": "2024-05-30T07:35:02.685487Z",
+    "lead_time": 4.631
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/37.jpg",
+    "id": 163,
+    "label": [
+      {
+        "x": 17.74436090225564,
+        "y": 21.052631578947366,
+        "width": 73.23308270676692,
+        "height": 68.7218045112782,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2024-05-30T07:35:07.888583Z",
+    "updated_at": "2024-05-30T07:35:07.888604Z",
+    "lead_time": 5.068
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/38.jpg",
+    "id": 164,
+    "label": [
+      {
+        "x": 17.293233082706767,
+        "y": 21.804511278195488,
+        "width": 72.93233082706767,
+        "height": 69.17293233082707,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2024-05-30T07:35:13.318509Z",
+    "updated_at": "2024-05-30T07:35:13.318545Z",
+    "lead_time": 5.288
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/39.jpg",
+    "id": 165,
+    "label": [
+      {
+        "x": 16.691729323308273,
+        "y": 21.804511278195488,
+        "width": 73.53383458646616,
+        "height": 70.37593984962406,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 39,
+    "created_at": "2024-05-30T07:35:18.259190Z",
+    "updated_at": "2024-05-30T07:35:18.259223Z",
+    "lead_time": 4.803
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/4.jpg",
+    "id": 166,
+    "label": [
+      {
+        "x": 8.270676691729323,
+        "y": 6.616541353383458,
+        "width": 74.88721804511279,
+        "height": 69.02255639097746,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 40,
+    "created_at": "2024-05-30T07:35:23.531089Z",
+    "updated_at": "2024-05-30T07:35:23.531124Z",
+    "lead_time": 5.137
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/40.jpg",
+    "id": 167,
+    "label": [
+      {
+        "x": 15.338345864661655,
+        "y": 22.105263157894736,
+        "width": 73.98496240601503,
+        "height": 69.47368421052632,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 41,
+    "created_at": "2024-05-30T07:35:28.831972Z",
+    "updated_at": "2024-05-30T07:35:28.831996Z",
+    "lead_time": 5.155
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/41.jpg",
+    "id": 168,
+    "label": [
+      {
+        "x": 16.541353383458645,
+        "y": 22.25563909774436,
+        "width": 71.12781954887218,
+        "height": 70.07518796992481,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 42,
+    "created_at": "2024-05-30T07:35:33.966493Z",
+    "updated_at": "2024-05-30T07:35:33.966528Z",
+    "lead_time": 5.005
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/42.jpg",
+    "id": 169,
+    "label": [
+      {
+        "x": 15.338345864661655,
+        "y": 22.25563909774436,
+        "width": 72.78195488721803,
+        "height": 69.92481203007519,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 43,
+    "created_at": "2024-05-30T07:35:38.450537Z",
+    "updated_at": "2024-05-30T07:35:38.450573Z",
+    "lead_time": 4.343
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/43.jpg",
+    "id": 170,
+    "label": [
+      {
+        "x": 15.639097744360903,
+        "y": 24.06015037593985,
+        "width": 72.93233082706766,
+        "height": 69.17293233082705,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 44,
+    "created_at": "2024-05-30T07:35:42.796314Z",
+    "updated_at": "2024-05-30T07:35:42.796347Z",
+    "lead_time": 4.203
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/44.jpg",
+    "id": 171,
+    "label": [
+      {
+        "x": 14.887218045112782,
+        "y": 26.466165413533833,
+        "width": 73.23308270676691,
+        "height": 68.1203007518797,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 45,
+    "created_at": "2024-05-30T07:35:47.629373Z",
+    "updated_at": "2024-05-30T07:35:47.629405Z",
+    "lead_time": 4.694
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/5.jpg",
+    "id": 172,
+    "label": [
+      {
+        "x": 9.022556390977442,
+        "y": 5.714285714285714,
+        "width": 74.43609022556392,
+        "height": 70.22556390977444,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 46,
+    "created_at": "2024-05-30T07:35:53.349758Z",
+    "updated_at": "2024-05-30T07:35:53.349795Z",
+    "lead_time": 5.58
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/6.jpg",
+    "id": 173,
+    "label": [
+      {
+        "x": 12.030075187969924,
+        "y": 6.616541353383458,
+        "width": 71.87969924812029,
+        "height": 69.77443609022556,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 47,
+    "created_at": "2024-05-30T07:35:58.233046Z",
+    "updated_at": "2024-05-30T07:35:58.233082Z",
+    "lead_time": 4.739
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/7.jpg",
+    "id": 174,
+    "label": [
+      {
+        "x": 11.428571428571429,
+        "y": 6.917293233082707,
+        "width": 72.03007518796993,
+        "height": 70.07518796992483,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 48,
+    "created_at": "2024-05-30T07:36:02.805642Z",
+    "updated_at": "2024-05-30T07:36:02.805665Z",
+    "lead_time": 4.432
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/8.jpg",
+    "id": 175,
+    "label": [
+      {
+        "x": 15.18796992481203,
+        "y": 8.1203007518797,
+        "width": 70.97744360902257,
+        "height": 68.87218045112783,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 49,
+    "created_at": "2024-05-30T07:36:14.263930Z",
+    "updated_at": "2024-05-30T07:36:14.263966Z",
+    "lead_time": 11.322
+  },
+  {
+    "image": "\/data\/local-files\/?d=FamilyMart\/morning\/5m\/0deg\/9.jpg",
+    "id": 176,
+    "label": [
+      {
+        "x": 17.593984962406015,
+        "y": 7.669172932330827,
+        "width": 71.42857142857143,
+        "height": 70.97744360902256,
+        "rotation": 0,
+        "rectanglelabels": [
+          "no-parking"
+        ],
+        "original_width": 64,
+        "original_height": 64
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 50,
+    "created_at": "2024-05-30T07:36:21.719086Z",
+    "updated_at": "2024-05-30T07:36:21.719111Z",
+    "lead_time": 7.309
+  }
+]
